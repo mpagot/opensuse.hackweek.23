@@ -1,14 +1,17 @@
 ---
-title: Opensuse h4ckweek YYYY
+title: Opensuse h4ckweek 23
 toc: true
 ---
 
-# Opensuse hackweek YYYY - navigation log
+# Opensuse hackweek 23 - navigation log
 
-This project is about ...
-This project is also about reading and digesting the ...
+I'm building a home NAS, I have most of the HW already on my desk. Is it possible to use openSUSE for that and let my family to enjoy it too?
 
-[Project page](https://hackweek.opensuse.org/projects/PAGE)
+## Project Description
+
+Create a family usable home NAS powered by openSUSE
+
+[Project page](https://hackweek.opensuse.org/23/projects/opensuse-with-openzfs-as-home-nas)
 
 <ul>
   {% for post in site.posts %}
