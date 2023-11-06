@@ -1,6 +1,6 @@
 # Project page
 
-Page is based on Jekyll. The page is rendered remotely by Github on 
+Page is based on Jekyll. The page is rendered remotely by Github on
 
 ## Prerequisite
 
@@ -33,7 +33,7 @@ In order to render the page locally:
 
 ```
 $ cd <THIS_REPO>
-$ PAGES_REPO_NWO=michelepagot/opensuse.hackweek.2022  bundle exec jekyll serve --incremental
+$ PAGES_REPO_NWO=mpagot/opensuse.hackweek.23  bundle exec jekyll serve --incremental
 ```
 
 Open your browser on [http://127.0.0.1:4000](http://127.0.0.1:4000)
