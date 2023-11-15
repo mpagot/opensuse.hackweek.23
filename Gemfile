@@ -16,3 +16,5 @@ gem "jekyll-theme-minimal"
 
 # https://github.com/jekyll/jemoji
 gem "jemoji"
+
+gem "faraday-retry"
